@@ -1,7 +1,7 @@
 .container{
     margin-left: 200px;
     width: 797px;
-    height: 670px;
+    height: 690px;
     background-color: yellow;
     border: 2px solid black;
 }
@@ -20,6 +20,7 @@
     margin-top: 8px;
     background-color: rgb(69, 212, 219);
     border: 2px solid black;
+    padding-bottom: 20px;
 }
 .menu2{
     width: 200px;
@@ -29,7 +30,6 @@
     border: 2px solid black;
     text-align: center;
     display: inline-block;
-    
 }
 .content{
     width: 557px;
@@ -50,9 +50,7 @@
     border: 2px solid black;
 }
 .text-alignment{
-    align-items: center;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 .text-style{
     font-weight: bold;
